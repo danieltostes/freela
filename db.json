@@ -1,0 +1,186 @@
+{
+	"categorias" : [
+		{
+			"id": 1,
+			"descricao": "Reparos Domésticos",
+			"icone": "Reparos"
+		},
+		{
+			"id": 2,
+			"descricao": "Lavanderia e Costura",
+			"icone": "Roupas"
+		},
+		{
+			"id": 3,
+			"descricao": "Construção e Reformas",
+			"icone": "Casa"
+		},
+		{
+			"id": 4,
+			"descricao": "Doces e Salgados",
+			"icone": "Bolos"
+		},
+		{
+			"id": 5,
+			"descricao": "Pintura Residencial",
+			"icone": "Pintura"
+		},
+		{
+			"id": 6,
+			"descricao": "Diaristas",
+			"icone": "Vassoura"
+		},
+		{
+			"id": 99,
+			"descricao": "Outros",
+			"icone": "Maos"
+		}
+	],
+	"locais" : [
+		{
+			"municipio" : "Nova Iguaçu",
+			"bairro" : "Centro"
+		},
+		{
+			"municipio" : "Nova Iguaçu",
+			"bairro" : "Caonze"
+		}
+	],
+	"profissionais" : [
+		{
+			"id": 1,
+			"categoria": 1,
+			"nome": "Josué Ferreira Amoedo",
+			"endereco": "Rua Humberto Gentil Baroni, 200",
+			"bairro": "Centro",
+			"municipio": "Nova Iguaçu",
+			"avaliacao": 4.5,
+			"telefone": "99778-5791",
+			"foto": "http://www.imperiumsoftware.com.br/img/H5.jpg",
+			"latitude": -22.7621548,
+			"longitude": -43.4507071
+		},
+		{
+			"id": 2,
+			"categoria": 1,
+			"nome": "Antonio Bezerra Araujo",
+			"endereco": "Rua Getúlio Vargas, 51",
+			"bairro": "Centro",
+			"municipio": "Nova Iguaçu",
+			"avaliacao": 2.0,
+			"telefone": "98778-1254",
+			"foto": "http://www.imperiumsoftware.com.br/img/H2.jpg",
+			"latitude": -22.7615315,
+			"longitude": -43.4507312
+		},
+		{
+			"id": 3,
+			"categoria": 1,
+			"nome": "Manoel Santos",
+			"endereco": "Rua Paulo Fróes Machado, 104",
+			"bairro": "Centro",
+			"municipio": "Nova Iguaçu",
+			"avaliacao": 5.0,
+			"telefone": "88665-5444",
+			"foto": "http://www.imperiumsoftware.com.br/img/H1.jpg",
+			"latitude": -22.7614561,
+			"longitude": -43.451071
+		},
+		{
+			"id": 4,
+			"categoria": 2,
+			"nome": "Sueli Oliveira de Souza",
+			"endereco": "Rua Sebastião Herculano de Matos, 127",
+			"bairro": "Centro",
+			"municipio": "Nova Iguaçu",
+			"avaliacao": 5.0,
+			"telefone": "97877-5520",
+			"foto": "http://www.imperiumsoftware.com.br/img/M1.jpg",
+			"latitude": -22.761160,
+			"longitude": -43.452246
+		},
+		{
+			"id": 5,
+			"categoria": 2,
+			"nome": "Gisele Pereira Rios",
+			"endereco": "Rua Olga França de Moraes, 27",
+			"bairro": "Caonze",
+			"municipio": "Nova Iguaçu",
+			"avaliacao": 5.0,
+			"telefone": "99117-7889",
+			"foto": "http://www.imperiumsoftware.com.br/img/M2.jpg",
+			"latitude": -22.7692582,
+			"longitude": -43.4458165
+		},
+		{
+			"id": 6,
+			"categoria": 3,
+			"nome": "Josué Silva",
+			"endereco": "R. Cap. Edmundo Soares, 102",
+			"bairro": "Caonze",
+			"municipio": "Nova Iguaçu",
+			"avaliacao": 5.0,
+			"telefone": "89978-8877",
+			"foto": "http://www.imperiumsoftware.com.br/img/H2.jpg",
+			"latitude": -22.7691698,
+			"longitude": -43.4429876
+		},
+		{
+			"id": 7,
+			"categoria": 3,
+			"nome": "Rafael Moreira Paz",
+			"endereco": "Rua Sebastião Herculano de Matos, 127",
+			"bairro": "Centro",
+			"municipio": "Nova Iguaçu",
+			"avaliacao": 5.0,
+			"telefone": "99223-4455",
+			"foto": "http://www.imperiumsoftware.com.br/img/H4.jpg",
+			"latitude": -22.761160,
+			"longitude": -43.452246
+		}
+	],
+	"avaliacoes" : [
+		{
+			"profissionalID" : 1,
+			"usuario" : "Jorge Silva",
+			"data": "01/09/2019",
+			"comentario" : "Profissional serio, competente e comprometido. Excelente trabalho",
+			"avaliacao" : 4.5
+		},
+		{
+			"profissionalID" : 1,
+			"usuario" : "Mirella Correia",
+			"data": "03/09/2019",
+			"comentario" : "Deixou um pouco a desejar no acabamento mas de forma geral realizou um excelente trabalho",
+			"avaliacao" : 4.0
+		},
+		{
+			"profissionalID" : 1,
+			"usuario" : "Geral Goes",
+			"data": "08/09/2019",
+			"comentario" : "Rápido, eficiente e organizado. Ao final do trabalho deixou o ambiente limpo. Recomendo",
+			"avaliacao" : 5.0
+		},
+		{
+			"profissionalID" : 2,
+			"usuario" : "Edina Pereira",
+			"data": "19/08/2019",
+			"comentario" : "Sujou muito as paredes e precisou refazer 2x o serviço. Decepcionada",
+			"avaliacao" : 2.0
+		},
+		{
+			"profissionalID" : 3,
+			"usuario" : "Amanda Xavier",
+			"data": "27/07/2019",
+			"comentario" : "Tive um vazamento e precisava de urgência. Atendeu de imediato e resolveu o problema muito depressa. Satisfeitissima. Obrigada!!",
+			"avaliacao" : 5.0
+		},
+		{
+			"profissionalID" : 3,
+			"usuario" : "Rosana Oliveira",
+			"data": "22/09/2019",
+			"comentario" : "Pontual e honesto no preço. Mostrou a nota fiscal de todo o material usado e deixou as bicas antigas comigo para que eu visse que realmente foram trocadas",
+			"avaliacao" : 5.0
+		}
+	]
+}

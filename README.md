@@ -52,4 +52,4 @@ Provavelmente existem dezenas desses profissionais perto você.
 
 * O aplicativo ainda não encontra-se publicado por uma estratégia comercial de lançamento para que a versão Android seja desenvolvida
 * Compatível com Iphone e Ipad (_com restrições_)
-* Vídeo de apresentação [aqui](https://youtu.be/z1-mbyAQJGg)
+* [Vídeo de apresentação](https://youtu.be/z1-mbyAQJGg)

@@ -30,3 +30,25 @@ Provavelmente existem dezenas desses profissionais perto você.
 
 ![Launch](http://www.imperiumsoftware.com.br/img/Tela01.jpg) | ![Home](http://www.imperiumsoftware.com.br/img/Tela02.jpg)
 ![Categorias](http://www.imperiumsoftware.com.br/img/Tela04.jpg) | ![Profissional](http://www.imperiumsoftware.com.br/img/Tela06.jpg)
+![Permissão](http://www.imperiumsoftware.com.br/img/Tela07.jpg) | ![Navegação](http://www.imperiumsoftware.com.br/img/Tela09.jpg)
+
+### Monetização
+
+* Ser um gateway de pagamento intermediando cliente e profissional
+* Cobrança de taxa do profissional por serviço contratado
+* Planos de assinatura de destaque de profissionais
+* Anúncios de vagas de emprego para profissionais
+
+### Melhorias Futuras
+
+* Permitir exibição dos profissionais no mapa por raio de proximidade com a localização atual do usuário
+* Tratamento das imagens de perfil dos profissionais para melhor visualização
+* Galeria de fotos de serviços realizados pelo profissional
+* Chat entre cliente e profissional
+* Cadastramento de serviço desejado e convite para profissionais apresentarem orçamentos
+* Contratação e pagamento do serviço pelo sistema Freela
+
+### Conclusão
+
+* O aplicativo ainda não encontra-se publicado por uma estratégia comercial de lançamento para que a versão Android seja desenvolvida
+* Compatível com Iphone e Ipad (_com restrições_)

@@ -28,4 +28,4 @@ Provavelmente existem dezenas desses profissionais perto você.
 
 ### Demonstração
 
-![Teste](http://www.imperiumsoftware.com.br/img/Tela01.jpg)
+![Teste](http://www.imperiumsoftware.com.br/img/Tela01.jpg){width=50%}

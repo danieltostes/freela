@@ -28,4 +28,7 @@ Provavelmente existem dezenas desses profissionais perto você.
 
 ### Demonstração
 
-![Teste](http://www.imperiumsoftware.com.br/img/Tela01.jpg){:height="50%" width="50%"}
+Freela | Demonstração
+------ | ------------
+![Launch](http://www.imperiumsoftware.com.br/img/Tela01.jpg) | Tela de apresentação do app.
+Tela inicial do app com os tipos de serviços | ![Home](http://www.imperiumsoftware.com.br/img/Tela02.jpg)

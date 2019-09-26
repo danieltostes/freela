@@ -51,14 +51,14 @@
 			"id": 1,
 			"categoria": 1,
 			"nome": "Josué Ferreira Amoedo",
-			"endereco": "Rua Humberto Gentil Baroni, 200",
+			"endereco": "Av Dr Mario Guimaraes, 715",
 			"bairro": "Centro",
 			"municipio": "Nova Iguaçu",
 			"avaliacao": 4.5,
 			"telefone": "99778-5791",
 			"foto": "http://www.imperiumsoftware.com.br/img/H5.jpg",
-			"latitude": -22.7621548,
-			"longitude": -43.4507071
+			"latitude": -22.7585456,
+			"longitude": -43.4605473
 		},
 		{
 			"id": 2,

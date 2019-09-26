@@ -13,8 +13,15 @@ Provavelmente existem dezenas desses profissionais perto você.
 ### Funcionalidades
 
 * Visualização de municípios e bairros que possuem profissionais cadastrados
-* Listar profissionais por tipos de serviços prestados
+* Lista de profissionais por tipos de serviços prestados
 * Avaliação média do profissional
 * Lista de comentários e avaliação individual a respeito do profissional
 * Ligação direta para o usuário desejado
 * Navegação por GPS para o profissional desejado
+
+### Metodologia de Execução
+
+* Desenvolvido por apenas uma pessoa _possuindo contribuições com as imagens do app_
+* Aproximadamente 3 semanas de trabalho
+* Uso de computador na nuvem através do serviço [Mac In Cloud](https://www.macincloud.com/)
+* App com versão exclusiva para iOS

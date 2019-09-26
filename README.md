@@ -28,4 +28,4 @@ Provavelmente existem dezenas desses profissionais perto você.
 
 ### Demonstração
 
-![Launch](https://github.com/danieltostes/freela/Tela01.jpg)
+![Launch](Tela01.jpg)
